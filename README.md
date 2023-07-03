@@ -1,4 +1,4 @@
-- 👋 Hi, I’m ADITYA SHARAN AKA @NOXTLE
+- 👋 Hi, I’m ADITYA SHARAN 
 - 👀 I’m interested in Python and Web development
 - 🌱 I’m currently learning Javascript libraries
 - 💞️ I’m looking to collaborate on web development and backend with python
