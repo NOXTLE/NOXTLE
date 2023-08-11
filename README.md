@@ -1,5 +1,4 @@
-<h1 align="center">Hi 👋, I'm Aditya Sharan</h1>
-<h3 align="center">Motivated and versatile Software Developer with a strong foundation in multiple programming languages and technologies, including Dart/Flutter, Java, PHP, C++, C, HTML, CSS, JavaScript, Bootstrap, MySQL, and SQLite. Adept at crafting efficient and maintainable code while delivering high-quality software solutions. Passionate about staying current with industry trends and continuously expanding technical skill set.</h3>
+
 # Hi there 👋, My name is Aditya Sharan
 
 Motivated and versatile Software Developer with a strong foundation in multiple programming languages and technologies, including Dart/Flutter, Java, PHP, C++, C, HTML, CSS, JavaScript, Bootstrap, MySQL, and SQLite. Adept at crafting efficient and maintainable code while delivering high-quality software solutions. Passionate about staying current with industry trends and continuously expanding technical skill set.
