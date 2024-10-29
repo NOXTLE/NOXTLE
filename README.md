@@ -1,12 +1,9 @@
 
 # Hi there 👋, My name is Aditya Sharan
 
-Motivated and versatile Software Developer with a strong foundation in multiple programming languages and technologies, including Dart/Flutter, Java, PHP, C++, C, HTML, CSS, JavaScript, Bootstrap, MySQL, and SQLite. Adept at crafting efficient and maintainable code while delivering high-quality software solutions. Passionate about staying current with industry trends and continuously expanding technical skill set.
+Passionate Software Developer skilled in Dart/Flutter, Java, C++, HTML, CSS, JavaScript, Bootstrap, and databases like MySQL and SQLite. Dedicated to writing efficient, maintainable code and delivering robust software solutions. Committed to staying current with industry trends and continuously expanding my technical skill set.
+Ask me about: Java, Android, Python
 
-## 💫 Liitle Bit More About Me
-<p>🔭 I'm currently working on Flutter weather app</p>
-<p>💬 Ask me about Java , android , python</p>
-<p>I regularly write articles on <a href="https://github.com/NOXTLE/NOXTLE">Github</a></p>
 
 ## 💻 Skills
 <p>
